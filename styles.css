@@ -52,13 +52,7 @@ body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
 }
-.eut{
-    background-image: url('images/img1.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 760px;
-    width: 100%;
-}
+
 a:active, a:link, a:visited {
     color: #fff;
     text-decoration: none;
@@ -184,4 +178,11 @@ ul {
 #menubar{
     height:25px;
     width:25px;
+}
+.header{
+    background-image: url('images/img1.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 760px;
+    width: 100%;
 }
